@@ -34,17 +34,11 @@ Un sistema integral para la gestión de estudiantes, cursos y calificaciones. Di
 ---
 
 ## 📸 Capturas de Pantalla
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/b1ab2549-c2c7-448e-aaf2-85de918daf11" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/5f358e27-0f14-4a72-8ecf-7f0ba93cb52f" />
+<img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/0abcc107-17ea-4251-a584-6586e312d7a6" />
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/4065544c-d6ab-443f-aeba-0adac4375a64" />
 
-*(Reemplaza estos enlaces por las rutas de tus propias imágenes una vez las subas a tu repositorio)*
-
-1.  **Pantalla de Login:** `![Login](ruta_a_tu_imagen_login.png)`  
-    *Muestra la interfaz de inicio de sesión.*
-2.  **Dashboard Principal (Modo Oscuro):** `![Dashboard](ruta_a_tu_imagen_dashboard.png)`  
-    *Vista general con las tarjetas de resumen.*
-3.  **Gestión de Alumnos (Modo Claro):** `![Alumnos](ruta_a_tu_imagen_alumnos.png)`  
-    *El listado de alumnos con las opciones de editar y eliminar.*
-4.  **Modal de Registro:** `![Modal Registro](ruta_a_tu_imagen_modal.png)`  
-    *Muestra cómo se ve el formulario emergente para crear una nueva calificación o curso.*
 
 ---
 
