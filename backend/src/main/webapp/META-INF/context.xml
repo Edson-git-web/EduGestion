@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/gestion-estudiantes">
+    <!-- Default context configuration to serve application at root path (/) -->
+</Context>
